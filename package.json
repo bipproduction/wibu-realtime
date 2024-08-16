@@ -6,7 +6,7 @@
   "license": "MIT",
    "scripts": {
     "build": "rm -rf dist && tsc",
-    "watch": "tsc --watch"
+    "dev": "tsc --watch"
   },
   "dependencies": {
     "react": "^18.3.1",
